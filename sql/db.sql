@@ -1,5 +1,6 @@
 use yuapi;
 
+
 -- 接口信息
 create table if not exists yuapi.`interface_info`
 (
