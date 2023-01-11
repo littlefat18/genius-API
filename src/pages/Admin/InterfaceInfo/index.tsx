@@ -162,11 +162,6 @@ const TableList: React.FC = () => {
 
   const columns: ProColumns<API.InterfaceInfo>[] = [
     {
-      title: 'id',
-      dataIndex: 'id',
-      valueType: 'index',
-    },
-    {
       title: '接口名称',
       dataIndex: 'name',
       valueType: 'text',
@@ -220,18 +215,6 @@ const TableList: React.FC = () => {
           status: 'Processing',
         },
       },
-    },
-    {
-      title: '创建时间',
-      dataIndex: 'createTime',
-      valueType: 'dateTime',
-      hideInForm: true,
-    },
-    {
-      title: '更新时间',
-      dataIndex: 'updateTime',
-      valueType: 'dateTime',
-      hideInForm: true,
     },
     {
       title: '操作',

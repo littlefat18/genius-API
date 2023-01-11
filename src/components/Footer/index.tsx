@@ -12,8 +12,8 @@ const Footer: React.FC = () => {
       copyright={`${currentYear} ${defaultMessage}`}
       links={[
         {
-          key: 'Ant Design Pro',
-          title: 'Ant Design Pro',
+          key: '鱼皮接口',
+          title: '鱼皮接口',
           href: 'https://pro.ant.design',
           blankTarget: true,
         },
@@ -24,8 +24,8 @@ const Footer: React.FC = () => {
           blankTarget: true,
         },
         {
-          key: 'Ant Design',
-          title: 'Ant Design',
+          key: '鱼皮接口',
+          title: '鱼皮接口',
           href: 'https://ant.design',
           blankTarget: true,
         },
