@@ -20,6 +20,12 @@ package com.yupi.project.provider;
 import org.apache.dubbo.config.annotation.DubboService;
 import org.apache.dubbo.rpc.RpcContext;
 
+/**
+ * 示例服务实现类
+ *
+ * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
+ * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ */
 @DubboService
 public class DemoServiceImpl implements DemoService {
 

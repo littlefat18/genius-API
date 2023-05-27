@@ -7,8 +7,8 @@ import com.yupi.yuapicommon.model.entity.Post;
 /**
  * 帖子视图
  *
- * @author yupi
- * @TableName product
+ * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
+ * @from <a href="https://yupi.icu">编程导航知识星球</a>
  */
 @EqualsAndHashCode(callSuper = true)
 @Data
