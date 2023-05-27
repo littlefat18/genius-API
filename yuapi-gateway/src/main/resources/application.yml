@@ -34,6 +34,9 @@ logging:
       springframework:
         cloud:
           gateway: trace
+
+# 原创_项目 [鱼皮](https://space.bilibili.com/12890453/)
+
 dubbo:
   application:
     name: dubbo-springboot-demo-provider

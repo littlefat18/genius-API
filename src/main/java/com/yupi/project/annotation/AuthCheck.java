@@ -22,6 +22,8 @@ public @interface AuthCheck {
      */
     String[] anyRole() default "";
 
+    // https://t.zsxq.com/0emozsIJh
+
     /**
      * 必须有某个角色
      *

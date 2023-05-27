@@ -1,5 +1,7 @@
 package com.yupi.project.common;
 
+// https://space.bilibili.com/12890453/
+
 import lombok.Data;
 
 import java.io.Serializable;
