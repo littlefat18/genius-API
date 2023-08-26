@@ -6,139 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b6960403-97b2-47b5-860d-2e2342204e44" name="Changes" comment="上传代码">
       <changelist_data name="genius" email="genius@smart.com" date="1693063169000" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/加入编程导航.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/MyApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/annotation/AuthCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/aop/AuthInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/aop/LogInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/common/BaseResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/common/DeleteRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/common/ErrorCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/common/IdRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/common/PageRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/common/ResultUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/config/CorsConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/config/GatewayConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/config/Knife4jConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/config/MyBatisPlusConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/constant/CommonConstant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/constant/UserConstant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/controller/AnalysisController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/controller/InterfaceInfoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/controller/PostController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/controller/UserInterfaceInfoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/exception/BusinessException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/exception/GlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/mapper/InterfaceInfoMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/mapper/PostMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/mapper/UserInterfaceInfoMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/interfaceinfo/InterfaceInfoAddRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/interfaceinfo/InterfaceInfoInvokeRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/interfaceinfo/InterfaceInfoQueryRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/interfaceinfo/InterfaceInfoUpdateRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/post/PostAddRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/post/PostDoThumbRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/post/PostQueryRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/post/PostUpdateRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/user/UserAddRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/user/UserLoginRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/user/UserQueryRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/user/UserRegisterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/user/UserUpdateRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/userinterfaceinfo/UserInterfaceInfoAddRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/userinterfaceinfo/UserInterfaceInfoQueryRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/dto/userinterfaceinfo/UserInterfaceInfoUpdateRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/entity/Post.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/enums/InterfaceInfoStatusEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/enums/PostGenderEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/enums/PostReviewStatusEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/vo/InterfaceInfoVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/vo/PostVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/model/vo/UserVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/provider/DemoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/provider/DemoServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/InterfaceInfoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/PostService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/UserInterfaceInfoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/impl/InterfaceInfoServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/impl/PostServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/impl/UserInterfaceInfoServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/impl/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/impl/inner/InnerInterfaceInfoServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/impl/inner/InnerUserInterfaceInfoServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/java/com/genius/project/service/impl/inner/InnerUserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/resources/banner.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/resources/mapper/InterfaceInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/resources/mapper/PostMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/resources/mapper/UserInterfaceInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/resources/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/test/java/com/genius/project/service/UserInterfaceInfoServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/test/java/com/genius/project/service/UserServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-client-sdk/src/main/java/com/genius/geniusapiclientsdk/GeniusApiClientConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-client-sdk/src/main/java/com/genius/geniusapiclientsdk/client/GeniusApiClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-client-sdk/src/main/java/com/genius/geniusapiclientsdk/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-client-sdk/src/main/java/com/genius/geniusapiclientsdk/utils/SignUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-client-sdk/src/main/resources/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/common/BaseResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/common/ErrorCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/common/ResultUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/exception/BusinessException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/entity/InterfaceInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/entity/Post.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/entity/UserInterfaceInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/enums/InterfaceInfoStatusEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/enums/PostGenderEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/enums/PostReviewStatusEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/request/AvatarRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/request/ChickenSoupRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/vo/PostVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/vo/SelfInterfaceDateVo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/model/vo/UserVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/service/InnerInterfaceInfoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/service/InnerUserInterfaceInfoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-common/src/main/java/com/genius/geniusapicommon/service/InnerUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/src/main/java/com/genius/geniusapigateway/GeniusApiGatewayApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/src/main/java/com/genius/geniusapigateway/exception/GlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/src/main/java/com/genius/geniusapigateway/exception/GlobalFilterExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/src/main/java/com/genius/geniusapigateway/filter/CustomGlobalFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-gateway/src/main/java/com/genius/geniusapigateway/provider/DemoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-interface/src/main/java/com/genius/geniusapiinterface/controller/AvatarController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-interface/src/main/java/com/genius/geniusapiinterface/controller/NameController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-interface/src/main/java/com/genius/geniusapiinterface/controller/PoisonousChickenSoupController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genius-api-interface/src/main/java/com/genius/geniusapiinterface/entity/ChickenSoupText.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/.copyright" beforeDir="false" afterPath="$PROJECT_DIR$/sql/.copyright" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/create_table.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/.banquan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-client-sdk/src/main/java/com/yupi/yuapiclientsdk/YuApiClientConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-client-sdk/src/main/java/com/yupi/yuapiclientsdk/client/YuApiClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-client-sdk/src/main/resources/.copyright" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-client-sdk/保护版权" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-common/作者" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-gateway/src/main/java/com/yupi/yuapigateway/YuapiGatewayApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-gateway/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-gateway/src/test/java/com/yupi/yuapigateway/YuapiGatewayApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-gateway/尊重知识" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-interface/.author" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-interface/src/main/java/com/yupi/yuapiinterface/YuapiInterfaceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuapi-interface/src/test/java/com/yupi/yuapiinterface/YuapiInterfaceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/请尊重原创" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +14,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -281,7 +148,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="master1" />
                       </list>
                     </value>
                   </entry>
