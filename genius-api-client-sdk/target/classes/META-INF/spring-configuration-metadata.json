@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "geniusapi.client",
+      "type": "com.genius.geniusapiclientsdk.GeniusApiClientConfig",
+      "sourceType": "com.genius.geniusapiclientsdk.GeniusApiClientConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "geniusapi.client.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.genius.geniusapiclientsdk.GeniusApiClientConfig"
+    },
+    {
+      "name": "geniusapi.client.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.genius.geniusapiclientsdk.GeniusApiClientConfig"
+    }
+  ],
+  "hints": []
+}
