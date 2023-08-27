@@ -91,3 +91,13 @@ export async function updateUserInterfaceInfoUsingPOST(
     ...(options || {}),
   });
 }
+/** selfInterfaceData GET /api/userInterfaceInfo/selfInterfaceData */
+export async function selfInterfaceDataUsingGET(options?: { [key: string]: any }) {
+  return request<API.BaseResponseListSelfInterfaceDateVo>(
+    '/api/userInterfaceInfo/selfInterfaceData',
+    {
+      method: 'GET',
+      ...(options || {}),
+    },
+  );
+}

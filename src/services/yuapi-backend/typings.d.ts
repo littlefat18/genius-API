@@ -5,6 +5,7 @@ declare namespace API {
     message?: string;
   };
 
+
   type BaseResponseInterfaceInfo = {
     code?: number;
     data?: InterfaceInfo;
@@ -22,7 +23,11 @@ declare namespace API {
     data?: InterfaceInfoVO[];
     message?: string;
   };
-
+  type BaseResponseListSelfInterfaceDateVo = {
+    code?: number;
+    data?: SelfInterfaceDateVo[];
+    message?: string;
+  };
   type BaseResponseListPost = {
     code?: number;
     data?: Post[];
