@@ -1,0 +1,5 @@
+com\genius\geniusapiclientsdk\utils\SignUtils.class
+com\genius\geniusapiclientsdk\client\GeniusApiClient.class
+com\genius\geniusapiclientsdk\GeniusApiClientConfig.class
+com\genius\geniusapiclientsdk\model\User.class
+META-INF\spring-configuration-metadata.json

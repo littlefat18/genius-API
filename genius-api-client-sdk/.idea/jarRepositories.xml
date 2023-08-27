@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="163" />
+      <option name="name" value="repo" />
+      <option name="url" value="http://mvn.hz.netease.com/artifactory/repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="alimaven" />
+      <option name="name" value="aliyun maven" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="snapshots-only" />
+      <option name="url" value="http://mvn.hz.netease.com/artifactory/snapshots-only" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="qiyu-thirdparty" />
+      <option name="name" value="QiyuThirdparty" />
+      <option name="url" value="http://ysfrepo.netease.com/nexus/content/repositories/thirdparty" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-milestones" />
+      <option name="name" value="Spring Milestones" />
+      <option name="url" value="https://repo.spring.io/milestone" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="qiyu-releases" />
+      <option name="name" value="QiyuReleases" />
+      <option name="url" value="http://ysfrepo.netease.com/nexus/content/repositories/qiyu-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-snapshots" />
+      <option name="name" value="Spring Snapshots" />
+      <option name="url" value="https://repo.spring.io/snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-aliyun" />
+      <option name="name" value="Nexus aliyun" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="qiyu-snapshots" />
+      <option name="name" value="QiyuSnapshots" />
+      <option name="url" value="http://ysfrepo.netease.com/nexus/content/repositories/qiyu-snapshots" />
+    </remote-repository>
+  </component>
+</project>
