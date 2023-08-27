@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6960403-97b2-47b5-860d-2e2342204e44" name="Changes" comment="上传代码">
-      <changelist_data name="genius" email="genius@smart.com" date="1693063169000" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genius-api-backend/src/main/resources/.banquan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/.banquan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-client-sdk/src/main/java/com/yupi/yuapiclientsdk/YuApiClientConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-client-sdk/src/main/java/com/yupi/yuapiclientsdk/client/YuApiClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-client-sdk/src/main/resources/.copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-client-sdk/保护版权" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-common/作者" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-gateway/src/main/java/com/yupi/yuapigateway/YuapiGatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-gateway/src/test/java/com/yupi/yuapigateway/YuapiGatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-gateway/尊重知识" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-interface/.author" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-interface/src/main/java/com/yupi/yuapiinterface/YuapiInterfaceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuapi-interface/src/test/java/com/yupi/yuapiinterface/YuapiInterfaceApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +139,7 @@
       <workItem from="1692845773950" duration="18556000" />
       <workItem from="1693049102708" duration="1565000" />
       <workItem from="1693133486861" duration="497000" />
+      <workItem from="1693136273489" duration="376000" />
     </task>
     <task id="LOCAL-00001" summary="上传代码">
       <created>1693133791508</created>
@@ -131,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693133791508</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="上传代码">
+      <created>1693135968971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693135968971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
